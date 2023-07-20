@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+#main {text-align:center;width:100%;margin-bottom:80px;}
+#main img{width:100%;max-width:1300px;}
+
+#box {width:1200px; margin:0 auto;}
+#box section {width:1200px; margin:0 auto;}
+fieldset {border:none; text-align:right;width:1200px; margin:20px auto;}
+.btn_confirm {margin:50px 0;text-align:center;}
+input[type=submit] {width:150px;height:40px;background:#000; color:#fff;}
+textarea  {width:630px; margin:0 auto;}
